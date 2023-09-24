@@ -1,9 +1,3 @@
-// -----------------------------------------------------
-// Assignment 2
-// © Konark Upendrakumar Shah, Het Jatin Dalal
-// Written by: Konark Shah , 40232277 ; Het Dalal, 40200513
-// -----------------------------------------------------
-
 
 import java.io.*;
 import java.util.Objects;
